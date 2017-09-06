@@ -1,2 +1,2 @@
 # git-github
-My first repo! Just to kickstart things!!
+My is my fisrt demo repository! Just to kickstart things!!
